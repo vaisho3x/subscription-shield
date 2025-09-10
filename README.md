@@ -2,6 +2,7 @@
 <br>
 A full-stack web application to track digital subscriptions and send automated email alerts before free trials expire, preventing unwanted charges.
 <br>
+
 About The Project
 
 Subscription Shield helps users manage their digital subscriptions and free trials effectively.  
