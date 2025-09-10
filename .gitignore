@@ -1,0 +1,17 @@
+Python
+venv/
+pycache/
+*.pyc
+.env
+
+Node.js / React
+node_modules/
+build/
+.DS_Store
+
+IDE / Editor specific
+.vscode/
+.idea/
+
+Operating System files
+Thumbs.db
